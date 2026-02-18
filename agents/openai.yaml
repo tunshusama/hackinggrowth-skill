@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Hacking Growth Playbook
+  short_description: 用黑客增长方法定位瓶颈并设计实验
+  default_prompt: 帮我用 Hacking Growth 框架做增长诊断、ICE 排优先级，并给出 1-3 个可执行实验卡片。
