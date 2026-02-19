@@ -73,3 +73,27 @@ Use these templates directly in responses.
 - Next week priorities:
 ```
 
+
+## 6) Must-Have / PMF Gate
+
+```md
+## Must-Have Validation
+- Target segment tested:
+- Sample size:
+- Main question:
+  - How would you feel if you could no longer use this product?
+- Response split:
+  - Very disappointed:
+  - Somewhat disappointed:
+  - Not disappointed:
+- Threshold check:
+  - Very disappointed >= 40% ?
+- Supporting signals:
+  - Retention curve stabilizing:
+  - Organic referral/invites present:
+  - Replacement pain evidence:
+- Verdict:
+  - PASS / FAIL
+- Action:
+  - If FAIL: focus activation/retention before paid scale
+```
